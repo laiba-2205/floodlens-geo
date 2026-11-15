@@ -1,0 +1,10 @@
+numpy
+h5py
+rasterio
+pyproj
+shapely
+geopandas
+matplotlib
+asf_search
+earthaccess
+jupyterlab

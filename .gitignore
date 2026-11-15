@@ -1,0 +1,8 @@
+.venv/
+data/raw/
+*.h5
+data/processed/t084_hh_db_*.tif
+data/processed/lahore_hh_db_*.tif
+__pycache__/
+!data/processed/t084_change_smooth_adj_db.tif
+!data/processed/lahore_change_smooth_adj_db.tif
